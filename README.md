@@ -1,13 +1,13 @@
 # Jean Pereira de Sá 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=jean981&color=yellow" alt="Profile views" /></p>
-<img align="right" height="320em"
+<img align="right" height="280em"
      src="https://raw.githubusercontent.com/gist/jean981/f921a986bb6c68ba15b9240b061a0fff/raw/607ec8b45b8733965d09053b30fbed392ff388ce/gitcard.svg"/>
 <p align="left">    
 Welcome to my GitHub repository, and it's a pleasure to have you here! I'm passionate about sharing knowledge and solving problems, and I believe that technology is a powerful tool to achieve these objectives. Currently, I'm employed as a Software Developer at a Portuguese company, where I apply my skills and expertise.</p>
 <div>
   <a href="https://github.com/jean981">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jean981&show_icons=true&theme-dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean981&layout=compact&langs_count=16&theme-dracula" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jean981&show_icons=true&theme-dracula&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean981&layout=compact&langs_count=16&theme-dracula" />
 </div>
 <div>
 <p align="left">
