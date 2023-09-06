@@ -7,7 +7,7 @@ Welcome to my GitHub repository, and it's a pleasure to have you here! I'm passi
 <div>
   <a href="https://github.com/jean981">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jean981&show_icons=true&theme-dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean981&layout=compact&langs_count=16&theme-dracula" />
+  <img height="180em" widith="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean981&layout=compact&langs_count=16&theme-dracula" />
 </div>
 <p align="left">
 My journey in the tech world has been marked by a continuous quest for learning and improvement. I've been dedicating my time to staying updated with the latest trends in IT. My areas of focus include:
